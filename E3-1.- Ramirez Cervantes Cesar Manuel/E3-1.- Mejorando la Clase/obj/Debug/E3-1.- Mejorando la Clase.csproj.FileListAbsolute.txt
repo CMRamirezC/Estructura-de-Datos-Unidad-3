@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\E3-1.- Mejorando la Clase\E3-1.- Mejorando la Clase\bin\Debug\E3-1.- Mejorando la Clase.exe.config
+C:\Users\Cesar\source\repos\E3-1.- Mejorando la Clase\E3-1.- Mejorando la Clase\bin\Debug\E3-1.- Mejorando la Clase.exe
+C:\Users\Cesar\source\repos\E3-1.- Mejorando la Clase\E3-1.- Mejorando la Clase\bin\Debug\E3-1.- Mejorando la Clase.pdb
+C:\Users\Cesar\source\repos\E3-1.- Mejorando la Clase\E3-1.- Mejorando la Clase\obj\Debug\E3-1.- Mejorando la Clase.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\E3-1.- Mejorando la Clase\E3-1.- Mejorando la Clase\obj\Debug\E3-1.- Mejorando la Clase.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\E3-1.- Mejorando la Clase\E3-1.- Mejorando la Clase\obj\Debug\E3-1.- Mejorando la Clase.exe
+C:\Users\Cesar\source\repos\E3-1.- Mejorando la Clase\E3-1.- Mejorando la Clase\obj\Debug\E3-1.- Mejorando la Clase.pdb
