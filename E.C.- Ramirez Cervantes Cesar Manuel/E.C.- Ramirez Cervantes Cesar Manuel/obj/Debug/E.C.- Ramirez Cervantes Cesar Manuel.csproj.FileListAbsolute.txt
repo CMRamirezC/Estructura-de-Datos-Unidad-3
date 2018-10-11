@@ -1,0 +1,7 @@
+C:\Users\cmrcm\source\repos\E.C.- Ramirez Cervantes Cesar Manuel\E.C.- Ramirez Cervantes Cesar Manuel\bin\Debug\E.C.- Ramirez Cervantes Cesar Manuel.exe.config
+C:\Users\cmrcm\source\repos\E.C.- Ramirez Cervantes Cesar Manuel\E.C.- Ramirez Cervantes Cesar Manuel\bin\Debug\E.C.- Ramirez Cervantes Cesar Manuel.exe
+C:\Users\cmrcm\source\repos\E.C.- Ramirez Cervantes Cesar Manuel\E.C.- Ramirez Cervantes Cesar Manuel\bin\Debug\E.C.- Ramirez Cervantes Cesar Manuel.pdb
+C:\Users\cmrcm\source\repos\E.C.- Ramirez Cervantes Cesar Manuel\E.C.- Ramirez Cervantes Cesar Manuel\obj\Debug\E.C.- Ramirez Cervantes Cesar Manuel.csprojResolveAssemblyReference.cache
+C:\Users\cmrcm\source\repos\E.C.- Ramirez Cervantes Cesar Manuel\E.C.- Ramirez Cervantes Cesar Manuel\obj\Debug\E.C.- Ramirez Cervantes Cesar Manuel.csproj.CoreCompileInputs.cache
+C:\Users\cmrcm\source\repos\E.C.- Ramirez Cervantes Cesar Manuel\E.C.- Ramirez Cervantes Cesar Manuel\obj\Debug\E.C.- Ramirez Cervantes Cesar Manuel.exe
+C:\Users\cmrcm\source\repos\E.C.- Ramirez Cervantes Cesar Manuel\E.C.- Ramirez Cervantes Cesar Manuel\obj\Debug\E.C.- Ramirez Cervantes Cesar Manuel.pdb
