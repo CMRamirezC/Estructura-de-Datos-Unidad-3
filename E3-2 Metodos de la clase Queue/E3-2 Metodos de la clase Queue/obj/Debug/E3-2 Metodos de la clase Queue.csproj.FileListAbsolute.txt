@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\E3-2 Metodos de la clase Queue\E3-2 Metodos de la clase Queue\bin\Debug\E3-2 Metodos de la clase Queue.exe.config
+C:\Users\Cesar\source\repos\E3-2 Metodos de la clase Queue\E3-2 Metodos de la clase Queue\bin\Debug\E3-2 Metodos de la clase Queue.exe
+C:\Users\Cesar\source\repos\E3-2 Metodos de la clase Queue\E3-2 Metodos de la clase Queue\bin\Debug\E3-2 Metodos de la clase Queue.pdb
+C:\Users\Cesar\source\repos\E3-2 Metodos de la clase Queue\E3-2 Metodos de la clase Queue\obj\Debug\E3-2 Metodos de la clase Queue.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\E3-2 Metodos de la clase Queue\E3-2 Metodos de la clase Queue\obj\Debug\E3-2 Metodos de la clase Queue.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\E3-2 Metodos de la clase Queue\E3-2 Metodos de la clase Queue\obj\Debug\E3-2 Metodos de la clase Queue.exe
+C:\Users\Cesar\source\repos\E3-2 Metodos de la clase Queue\E3-2 Metodos de la clase Queue\obj\Debug\E3-2 Metodos de la clase Queue.pdb
