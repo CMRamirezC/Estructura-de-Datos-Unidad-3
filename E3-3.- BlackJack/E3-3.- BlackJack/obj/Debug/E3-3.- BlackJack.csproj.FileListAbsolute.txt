@@ -1,0 +1,14 @@
+C:\Users\Cesar\source\repos\E3-3.- BlackJack\E3-3.- BlackJack\bin\Debug\E3-3.- BlackJack.exe.config
+C:\Users\Cesar\source\repos\E3-3.- BlackJack\E3-3.- BlackJack\bin\Debug\E3-3.- BlackJack.exe
+C:\Users\Cesar\source\repos\E3-3.- BlackJack\E3-3.- BlackJack\bin\Debug\E3-3.- BlackJack.pdb
+C:\Users\Cesar\source\repos\E3-3.- BlackJack\E3-3.- BlackJack\obj\Debug\E3-3.- BlackJack.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\E3-3.- BlackJack\E3-3.- BlackJack\obj\Debug\E3-3.- BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\E3-3.- BlackJack\E3-3.- BlackJack\obj\Debug\E3-3.- BlackJack.exe
+C:\Users\Cesar\source\repos\E3-3.- BlackJack\E3-3.- BlackJack\obj\Debug\E3-3.- BlackJack.pdb
+D:\Estructura de Datos\E3-3.- BlackJack\E3-3.- BlackJack\bin\Debug\E3-3.- BlackJack.exe.config
+D:\Estructura de Datos\E3-3.- BlackJack\E3-3.- BlackJack\bin\Debug\E3-3.- BlackJack.exe
+D:\Estructura de Datos\E3-3.- BlackJack\E3-3.- BlackJack\bin\Debug\E3-3.- BlackJack.pdb
+D:\Estructura de Datos\E3-3.- BlackJack\E3-3.- BlackJack\obj\Debug\E3-3.- BlackJack.csprojResolveAssemblyReference.cache
+D:\Estructura de Datos\E3-3.- BlackJack\E3-3.- BlackJack\obj\Debug\E3-3.- BlackJack.csproj.CoreCompileInputs.cache
+D:\Estructura de Datos\E3-3.- BlackJack\E3-3.- BlackJack\obj\Debug\E3-3.- BlackJack.exe
+D:\Estructura de Datos\E3-3.- BlackJack\E3-3.- BlackJack\obj\Debug\E3-3.- BlackJack.pdb
