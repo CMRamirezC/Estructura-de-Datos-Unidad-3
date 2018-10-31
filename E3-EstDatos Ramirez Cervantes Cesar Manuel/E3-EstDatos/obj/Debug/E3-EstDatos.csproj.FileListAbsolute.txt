@@ -1,0 +1,7 @@
+C:\Users\cmrcm\Desktop\E3-EstDatos\E3-EstDatos\bin\Debug\E3-EstDatos.exe.config
+C:\Users\cmrcm\Desktop\E3-EstDatos\E3-EstDatos\bin\Debug\E3-EstDatos.exe
+C:\Users\cmrcm\Desktop\E3-EstDatos\E3-EstDatos\bin\Debug\E3-EstDatos.pdb
+C:\Users\cmrcm\Desktop\E3-EstDatos\E3-EstDatos\obj\Debug\E3-EstDatos.csproj.CoreCompileInputs.cache
+C:\Users\cmrcm\Desktop\E3-EstDatos\E3-EstDatos\obj\Debug\E3-EstDatos.exe
+C:\Users\cmrcm\Desktop\E3-EstDatos\E3-EstDatos\obj\Debug\E3-EstDatos.pdb
+C:\Users\cmrcm\Desktop\E3-EstDatos\E3-EstDatos\obj\Debug\E3-EstDatos.csprojResolveAssemblyReference.cache
