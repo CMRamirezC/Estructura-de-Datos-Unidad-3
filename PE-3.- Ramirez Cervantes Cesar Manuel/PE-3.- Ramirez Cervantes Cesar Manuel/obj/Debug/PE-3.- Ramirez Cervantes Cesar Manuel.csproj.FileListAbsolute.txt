@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\bin\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.exe.config
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\bin\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.exe
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\bin\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.pdb
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\obj\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\obj\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\obj\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.exe
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\obj\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.pdb

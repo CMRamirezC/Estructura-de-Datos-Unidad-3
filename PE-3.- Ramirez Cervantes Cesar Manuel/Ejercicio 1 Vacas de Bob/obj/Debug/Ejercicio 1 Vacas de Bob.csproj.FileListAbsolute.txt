@@ -1,0 +1,6 @@
+D:\Estructura de Datos\PE-3.- Ramirez Cervantes Cesar Manuel\Ejercicio 1 Vacas de Bob\bin\Debug\Ejercicio 1 Vacas de Bob.exe.config
+D:\Estructura de Datos\PE-3.- Ramirez Cervantes Cesar Manuel\Ejercicio 1 Vacas de Bob\bin\Debug\Ejercicio 1 Vacas de Bob.exe
+D:\Estructura de Datos\PE-3.- Ramirez Cervantes Cesar Manuel\Ejercicio 1 Vacas de Bob\bin\Debug\Ejercicio 1 Vacas de Bob.pdb
+D:\Estructura de Datos\PE-3.- Ramirez Cervantes Cesar Manuel\Ejercicio 1 Vacas de Bob\obj\Debug\Ejercicio 1 Vacas de Bob.csproj.CoreCompileInputs.cache
+D:\Estructura de Datos\PE-3.- Ramirez Cervantes Cesar Manuel\Ejercicio 1 Vacas de Bob\obj\Debug\Ejercicio 1 Vacas de Bob.exe
+D:\Estructura de Datos\PE-3.- Ramirez Cervantes Cesar Manuel\Ejercicio 1 Vacas de Bob\obj\Debug\Ejercicio 1 Vacas de Bob.pdb

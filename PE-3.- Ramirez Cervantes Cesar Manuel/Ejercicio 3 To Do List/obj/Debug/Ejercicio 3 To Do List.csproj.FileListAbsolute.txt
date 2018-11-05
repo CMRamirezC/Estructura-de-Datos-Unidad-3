@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\Ejercicio 3 To Do List\bin\Debug\Ejercicio 3 To Do List.exe.config
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\Ejercicio 3 To Do List\bin\Debug\Ejercicio 3 To Do List.exe
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\Ejercicio 3 To Do List\bin\Debug\Ejercicio 3 To Do List.pdb
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\Ejercicio 3 To Do List\obj\Debug\Ejercicio 3 To Do List.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\Ejercicio 3 To Do List\obj\Debug\Ejercicio 3 To Do List.exe
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\Ejercicio 3 To Do List\obj\Debug\Ejercicio 3 To Do List.pdb
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\Ejercicio 3 To Do List\obj\Debug\Ejercicio 3 To Do List.csprojAssemblyReference.cache

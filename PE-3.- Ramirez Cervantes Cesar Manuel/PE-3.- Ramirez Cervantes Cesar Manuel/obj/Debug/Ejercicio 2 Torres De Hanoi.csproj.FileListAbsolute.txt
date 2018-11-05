@@ -1,0 +1,14 @@
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\bin\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.exe.config
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\bin\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.exe
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\bin\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.pdb
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\obj\Debug\Ejercicio 2 Torres De Hanoi.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\obj\Debug\Ejercicio 2 Torres De Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\obj\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.exe
+C:\Users\Cesar\source\repos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\obj\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.pdb
+D:\Estructura de Datos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\bin\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.exe.config
+D:\Estructura de Datos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\bin\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.exe
+D:\Estructura de Datos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\bin\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.pdb
+D:\Estructura de Datos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\obj\Debug\Ejercicio 2 Torres De Hanoi.csprojResolveAssemblyReference.cache
+D:\Estructura de Datos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\obj\Debug\Ejercicio 2 Torres De Hanoi.csproj.CoreCompileInputs.cache
+D:\Estructura de Datos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\obj\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.exe
+D:\Estructura de Datos\PE-3.- Ramirez Cervantes Cesar Manuel\PE-3.- Ramirez Cervantes Cesar Manuel\obj\Debug\PE-3.- Ramirez Cervantes Cesar Manuel.pdb
